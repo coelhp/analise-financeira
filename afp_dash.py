@@ -23,7 +23,7 @@ import tempfile, shutil
 
 # ─── Configuração da Página ────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Dashboard Financeiro Pessoal",
+    page_title="Dashboard de Análise Financeira Pessoal",
     page_icon="💰",
     layout="wide",
     initial_sidebar_state="expanded",
