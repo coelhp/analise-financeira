@@ -195,7 +195,7 @@ with st.sidebar:
 # ESTADO ZERO — sem arquivo carregado
 # ══════════════════════════════════════════════════════════════════════════════
 if df is None:
-    st.title("💰 Dashboard Financeiro Pessoal")
+    st.title("💰 Dashboard de Finanças Pessoais")
 
     if load_error:
         st.error(f"❌ Erro ao carregar o arquivo: {load_error}")
@@ -283,7 +283,7 @@ fdf       = df[mask].copy()
 bdf_range = bdf[bdf["AnoMes"].isin(valid_range)].copy()
 
 # Header
-st.title("💰 Dashboard Financeiro Pessoal")
+st.title("💰 Dashboard de Finanças Pessoais")
 st.caption(
     f"Período: **{start_m}** → **{end_m}** · "
     f"{len(valid_range)} meses · {len(fdf):,} transações"
