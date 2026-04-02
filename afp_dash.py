@@ -6,7 +6,7 @@ Requisitos:
     pip install streamlit plotly pandas openpyxl
 
 Execução:
-    streamlit run dashboard.py
+    streamlit run afp_dash.py
 
 Ao inicializar sem arquivo, o dashboard exibe uma tela de boas-vindas com
 instruções de upload. O filtro de período já vem pré-configurado para
