@@ -128,7 +128,7 @@ def load_data(filepath: str):
 # SIDEBAR — Upload + Filtros
 # ══════════════════════════════════════════════════════════════════════════════
 with st.sidebar:
-    st.markdown("## 📂 Arquivo de Dados")
+    st.markdown("## 📂 Upload do Arquivo de Dados")
     uploaded = st.file_uploader(
         "Faça upload do seu Excel (.xlsx)",
         type=["xlsx"],
