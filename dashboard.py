@@ -125,7 +125,7 @@ def load_data(filepath: str):
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# SIDEBAR — Upload + Filtros
+# SIDEBAR — Upload do Arquivo Preenchido + Filtros
 # ══════════════════════════════════════════════════════════════════════════════
 with st.sidebar:
     st.markdown("## 📂 Upload do Arquivo de Dados")
