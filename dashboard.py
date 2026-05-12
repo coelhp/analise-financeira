@@ -545,4 +545,4 @@ with tab2:
 
 # Footer
 st.markdown("---")
-st.caption(f"Dashboard Financeiro Pessoal · Ano de referência padrão: {CURRENT_YEAR}")
+st.caption(f"Dashboard de Análise Financeira Pessoal · Ano de referência padrão: {CURRENT_YEAR}")
