@@ -5,7 +5,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-5.x-3F4F75?style=flat-square&logo=plotly)
 ![License](https://img.shields.io/badge/Licença-Pessoal%2FEducacional-green?style=flat-square)
 
-Aplicação interativa desenvolvida utilizando Streamlit para análise de finanças pessoais a partir de um arquivo Excel padrão.
+Aplicação interativa desenvolvida utilizando Streamlit para análise de finanças pessoais a partir de um arquivo Excel pré-definido padrão.
 
 O dashboard permite visualizar despesas, receitas, evolução mensal, comparativo com budget e diversos insights financeiros de forma simples e visual. Ao ser iniciado sem dados, exibe uma tela de boas-vindas com instruções de uso — basta fazer o upload do Excel pela barra lateral para o dashboard carregar imediatamente.
 
