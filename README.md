@@ -111,7 +111,7 @@ O dashboard detecta automaticamente as abas por nome (busca por `DESPESAS` e `BU
 | `Data Contábil` | Data do recebimento (dd/mm/aaaa) |
 | `Data Base` | Período no formato `M/AAAA` (ex: `3/2027`) |
 | `Título` | Origem da receita (ex: SALÁRIO, FREELANCE, 13° 1/2) |
-| `Entrada Real` | Valor efetivamente recebido — deixe em branco se ainda não recebeu |
+| `Entrada Real` | Valor efetivamente recebido, deixe em branco se ainda não recebeu |
 | `Entrada Esperada` | Valor previsto/planejado |
 
 ---
