@@ -86,7 +86,7 @@ dashboard-financeiro/
 
 ## 📊 Modelo de Dados (Excel)
 
-O dashboard detecta automaticamente as abas por nome (busca por `DESPESAS` e `BUDGET`). Use o arquivo `modelo_dashboard_financeiro.xlsx` como base — ele já contém exemplos preenchidos, validações de dados e uma aba de instruções.
+O dashboard detecta automaticamente as abas por nome (busca por `DESPESAS` e `BUDGET`). Use o arquivo `modelo_dashboard_financeiro.xlsx` como base, ele já contém exemplos preenchidos, validações de dados e uma aba de instruções.
 
 ### 🔴 Aba: DB_DESPESAS
 
@@ -94,13 +94,13 @@ O dashboard detecta automaticamente as abas por nome (busca por `DESPESAS` e `BU
 |--------|-----------|
 | `Data Lançamento` | Data real da transação (dd/mm/aaaa) |
 | `DESCRIÇÃO` | Descrição da despesa |
-| `Entrada(R$)` | Valor de entrada — use `0` se for saída |
-| `Saída(R$)` | Valor da despesa — use `0` se for entrada |
+| `Entrada(R$)` | Valor de entrada use `0` se for saída |
+| `Saída(R$)` | Valor da despesa use `0` se for entrada |
 | `CC` | Conta ou cartão de origem (ex: NUBANK, C6) |
 | `DESC. BASE` | Descrição resumida da categoria |
 | `CATEGORIA` | Categoria detalhada (ex: D.P. Alimentação) |
 | `STATUS` | `PAGO` ou `PENDENTE` |
-| `Data Base` | Mês de competência — dia sempre `01` (ex: 01/01/2027) |
+| `Data Base` | Mês de competência dia sempre `01` (ex: 01/01/2027) |
 | `GRUPO` | Grupo resumido: `D.P.` · `D.T.` · `D.F.` · `PGT.` · `Vend` |
 | `GRUPO REAL` | Igual ao GRUPO na maioria dos casos |
 
