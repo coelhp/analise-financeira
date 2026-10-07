@@ -7,7 +7,7 @@
 
 Aplicação interativa desenvolvida utilizando Streamlit para análise de finanças pessoais a partir de um arquivo Excel pré-definido padrão.
 
-O dashboard permite visualizar despesas, receitas, evolução mensal, comparativo com budget e diversos insights financeiros de forma simples e visual. Ao ser iniciado sem dados, exibe uma tela de boas-vindas com instruções de uso — basta fazer o upload do Excel pela barra lateral para o dashboard carregar imediatamente.
+O dashboard permite visualizar despesas, receitas, evolução mensal, comparativo com budget e diversos insights financeiros de forma simples e visual. Ao ser iniciado sem dados, exibe uma tela de boas-vindas com instruções de uso, basta fazer o upload do Excel pela barra lateral para o dashboard carregar imediatamente.
 
 ---
 
