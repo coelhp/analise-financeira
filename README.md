@@ -18,7 +18,7 @@ O dashboard permite visualizar despesas, receitas, evolução mensal, comparativ
 - 🏷️ **Distribuição por categoria e grupo** (ranking horizontal + pizza)
 - 🌡️ **Heatmap** Categoria × Mês
 - 🎯 **Comparação de Budget** - Real vs Esperado com gauge de % realizado
-- 📉 **Fluxo mensal** — Receitas × Despesas × Saldo
+- 📉 **Fluxo mensal** - Receitas × Despesas × Saldo
 - 📋 **Tabelas detalhadas** de transações e budget
 - 🔍 **Filtros dinâmicos:** período, grupo, categoria e status (Pago / Pendente)
 - 👋 **Estado zero** — tela de boas-vindas com guia de uso quando nenhum arquivo está carregado
