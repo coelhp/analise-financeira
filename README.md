@@ -21,7 +21,7 @@ O dashboard permite visualizar despesas, receitas, evolução mensal, comparativ
 - 📉 **Fluxo mensal** - Receitas × Despesas × Saldo
 - 📋 **Tabelas detalhadas** de transações e budget
 - 🔍 **Filtros dinâmicos:** período, grupo, categoria e status (Pago / Pendente)
-- 👋 **Estado zero** — tela de boas-vindas com guia de uso quando nenhum arquivo está carregado
+- 👋 **Estado zero** - tela de boas-vindas com guia de uso quando nenhum arquivo está carregado
 
 ---
 
