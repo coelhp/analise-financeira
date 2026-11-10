@@ -71,7 +71,7 @@ O navegador será aberto automaticamente. Se não abrir, acesse `http://localhos
 
 ---
 
-## 📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto:
 
 ```
 dashboard-financeiro/
@@ -84,7 +84,7 @@ dashboard-financeiro/
 
 ---
 
-## 📊 Modelo de Dados (Excel)
+## 📊 Modelo de Dados (Excel):
 
 O dashboard detecta automaticamente as abas por nome (busca por `DESPESAS` e `BUDGET`). Use o arquivo `modelo_dashboard_financeiro.xlsx` como base, ele já contém exemplos preenchidos, validações de dados e uma aba de instruções.
 
@@ -116,7 +116,7 @@ O dashboard detecta automaticamente as abas por nome (busca por `DESPESAS` e `BU
 
 ---
 
-## 📌 Como Usar
+## 📌 Como Usar:
 
 1. **Baixe o modelo base**
    - Utilize `modelo_dashboard_financeiro.xlsx` como ponto de partida
