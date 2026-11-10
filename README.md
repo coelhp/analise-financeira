@@ -11,7 +11,7 @@ O dashboard permite visualizar despesas, receitas, evolução mensal, comparativ
 
 ---
 
-## 🚀 Funcionalidades
+## 🚀 Funcionalidades:
 
 - 📊 **KPIs principais** - Entradas, Saídas, Saldo líquido e Média mensal
 - 📅 **Evolução mensal de despesas** por grupo (gráfico de barras empilhadas)
