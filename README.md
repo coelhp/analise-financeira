@@ -25,7 +25,7 @@ O dashboard permite visualizar despesas, receitas, evolução mensal, comparativ
 
 ---
 
-## 🧰 Tecnologias Utilizadas
+## 🧰 Tecnologias Utilizadas:
 
 | Biblioteca | Uso |
 |------------|-----|
@@ -36,7 +36,7 @@ O dashboard permite visualizar despesas, receitas, evolução mensal, comparativ
 
 ---
 
-## 📦 Instalação
+## 📦 Instalação:
 
 ```bash
 # 1. Clone o repositório
